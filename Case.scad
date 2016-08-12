@@ -30,7 +30,7 @@ module CaseTop(l,b,h,radius)
 
 module Lid(l,b,h,radius)
 {
-	color([0,0,255])
+	color([0,0,1])
 
 	translate([-l/2,-b/2,-1])
    {
@@ -165,7 +165,7 @@ module PCB(size,radius,height,lh)
 {
 	w = size+20;
    l = size+radius;
-	color([0,255,0])
+	color([0,1,0])
 	translate([-w/2,-l/2,height-lh-1]) linear_extrude(height=3) square([w, l]);
 }
 
@@ -177,7 +177,7 @@ module STM32PCB(size,radius,height,lh)
 {
 	w = 56;
    l = 69;
-	color([255,0,0])
+	color([1,0,0])
 	translate([-(w/2)-17,-l/2,height-lh-5]) linear_extrude(height=3) square([w, l]);
 }
 
@@ -189,7 +189,7 @@ module USBPCB(size,radius,height,lh)
 {
 	w = 28;
    l = 64;
-	color([255,255,0])
+	color([1,1,0])
 	translate([-(w/2)+25,-l/2,height-lh-5-20]) linear_extrude(height=23) square([w, l]);
 }
 
