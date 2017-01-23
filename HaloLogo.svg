@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9169349"
-     inkscape:cx="131.39473"
-     inkscape:cy="723.95378"
+     inkscape:zoom="3.476798"
+     inkscape:cx="251.96219"
+     inkscape:cy="696.79772"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1873"
+     inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="47"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,5 +185,29 @@
          id="path4217-0"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="279.56757"
+       y="332.44693"
+       id="text3361"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="279.56757"
+         y="332.44693"
+         style="font-size:25px;-inkscape-font-specification:'STIX Math';font-family:'STIX Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">BlockWorks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="262.88556"
+       y="393.42255"
+       id="text3365"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3367"
+         x="262.88556"
+         y="393.42255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.25px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'">halo</tspan></text>
   </g>
 </svg>
